@@ -19,7 +19,7 @@ Este projeto foi desenvolvido com o objetivo de aprofundar meus conhecimentos em
 
 ## Contribuir
 
-1. **Clone project**: `git clone https://github.com/Fernanda-Kipper/Readme-Templates.git`
+1. **Clone project**: `git clone https://github.com/devluangabriel/Poo-Heranca-Java.git`
 2. **Create feature/branch**: `git checkout -b feature/nome-da-sua-feature`
 
 ## Licença
